@@ -1,0 +1,92 @@
+body {
+    background-color: hsl(224, 18%, 71%);
+text-align: center;
+}
+
+h1 { color:rgb(89, 89, 180);
+    text-align: center;
+    font-family: Verdana;
+    font-size: 80px;
+}
+
+
+h2 {
+font-size: 55px;
+font-family: "Arial Narrow";
+text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+font-family: Arial;
+text-align: left;
+}
+
+h4{
+    font-size: 55px;
+    font-family: "Arial Narrow";
+    text-align: center;
+}
+
+h5 {
+    font-size: 20px;
+font-family: Arial;
+text-align: left;
+}
+
+h6{
+    font-size: 55px;
+    font-family: "Arial Narrow";
+    text-align: center;
+}
+
+h7 {
+font-size: 20px;
+font-family: Arial;
+text-align: left;
+}
+
+h8 {
+    font-size: 55px;
+    font-family: "Arial Narrow";
+    text-align: center;
+}
+
+h9 {
+    font-size: 20px;
+font-family: Arial;
+}
+
+h10 {
+    font-size: 55px;
+    font-family: "Arial Narrow";
+    text-align: center;
+}
+
+h11 {
+    font-size: 20px;
+font-family: Arial;
+}
+
+h12 {
+    font-size: 55px;
+    font-family: "Arial Narrow";
+    text-align: center;
+}
+
+h13 {
+    font-size: 20px;
+font-family: Arial;
+}
+
+h14 {
+    font-size: 55px;
+    font-family: "Arial Narrow";
+    text-align: center;
+}
+
+
+
+
+
+
